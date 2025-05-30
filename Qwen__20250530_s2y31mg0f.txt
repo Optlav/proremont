@@ -1,9 +1,0 @@
-proremont/
-├── package.json
-├── index.html
-├── src/
-│   ├── App.jsx
-│   └── index.js
-├── public/
-│   └── favicon.ico (опционально)
-└── README.md

@@ -1,0 +1,6 @@
+"homepage": "http://ваш_логин.github.io/proremont",
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "deploy": "gh-pages -d build"
+}
